@@ -9,7 +9,7 @@ const Header = () => {
                 <div className='linkwrap'>
                 <a href="./shop">Shop</a>
                 <a href="./review">Review Order</a>
-                <a href="./manage">Manage Inventory</a>
+                <a href="./manage">Manage Inventory Here</a>
                 </div>
             </nav>
         </div>
